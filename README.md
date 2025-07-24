@@ -113,33 +113,12 @@ Linux is a free and open-source operating system that powers everything from sma
 
 ### 🗃️ Filesystem Hierarchy Standard (FHS)
 
-Directory
-
-Purpose
-
-`/`
-
-Root of everything
-
-`/bin`
-
-Essential commands
-
-`/etc`
-
-Config files
-
-`/var`
-
-Logs & variable data
-
-`/home`
-
-User directories
-
-`/tmp`
-
-Temporary files
+- `/` – Root of everything  
+- `/bin` – Essential system commands  
+- `/etc` – Configuration files  
+- `/var` – Logs and variable data  
+- `/home` – User home directories  
+- `/tmp` – Temporary files  
 
 ----------
 
@@ -157,9 +136,6 @@ Commands:
 
 Example:
 
-diff
-
-CopyEdit
 
 `-rwxr-xr-- 1 anuj devops 1234 Jul 24 script.sh` 
 
@@ -219,9 +195,6 @@ Install, update, and manage software:
 
 Example:
 
-sql
-
-CopyEdit
 
 `sudo apt update  && sudo apt install htop` 
 
@@ -244,16 +217,12 @@ CopyEdit
 
 bash
 
-CopyEdit
-
 `git clone https://github.com/meetanuj1995/Linux-Foundations.git cd Linux-Foundations
 bash script_name.sh` 
 
 🛠️ You can also automate using:
 
 bash
-
-CopyEdit
 
 `crontab -e` 
 
