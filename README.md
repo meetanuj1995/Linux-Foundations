@@ -55,8 +55,6 @@ Each script in this repo maps to such **real-world situations** — all explaine
     
 -   📆 Scheduled tasks with `cron`
     
--   📬 Sending basic email alerts using `mail`
-    
 
 ### 💡 Real-World Scripting Examples
 
