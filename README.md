@@ -64,10 +64,6 @@ Each script in this repo maps to such **real-world situations** — all explaine
     
 -   📊 Disk space notifier
     
--   📬 Email alerts via cron jobs
-    
--   🔎 Debug mode examples with readable output
-    
 
 > All scripts are beginner-friendly, cleanly formatted, and include **comments for easy understanding** 📝
 
